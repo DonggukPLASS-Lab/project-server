@@ -49,7 +49,7 @@ docker run \
 	-l traefik.docker.network=proxy \
 	-l traefik.enable=true \
 	-l traefik.frontend.rule=PathPrefixStrip:/$API \
-ide:1.4
+dguplms/ide:1.4
 
 
 # docker run \
