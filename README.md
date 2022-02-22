@@ -32,7 +32,7 @@ cd project-server
 # Install dependencies
 npm start
 
-# .env create env file
+# .env create env file and input content
 MYSQL_HOST=localhost
 MYSQL_PORT=3306
 MYSQL_ID=
