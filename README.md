@@ -1,5 +1,5 @@
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold">
-  <br><br><strong>PLASS 프로젝트 관리 페이이지 서버</strong>
+  <strong>PLASS 프로젝트 관리 페이이지 서버</strong>
 </h1>
 
 ![Latest release](https://img.shields.io/github/v/release/DonggukPLASS-Lab/project-client?style=for-the-badge)
