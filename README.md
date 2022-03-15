@@ -1,12 +1,12 @@
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold">
-  <strong>PLASS 프로젝트 관리 페이이지 서버</strong>
+  <strong>PLASS 프로젝트 관리 페이지 서버</strong>
 </h1>
 
 ![Latest release](https://img.shields.io/github/v/release/DonggukPLASS-Lab/project-client?style=for-the-badge)
 
 ---
 ## 소개[![](./docs/imgs/pin.svg)](#introduction)
-**프로젝트 관리 페이이지 클라이언트**라는 프로젝트는 동국대학교 PLASS 연구실 연구원들이 개발하는 프로젝트입니다.
+**프로젝트 관리 페이지 클라이언트**라는 프로젝트는 동국대학교 PLASS 연구실 연구원들이 개발하는 프로젝트입니다.
 
 ---
 
@@ -47,7 +47,7 @@ mkdir public
 # Run the app
 $ npm start
 ```
-> 💡 정상적으로 올리는지 확인: `open https://localhost:5110` 명령어를 사용하여 웹브라우저로 접속함 <br>
+> 💡 정상적으로 올리는지 확인: `open https://localhost:5110` 명령어를 사용하여, 웹브라우저로 접속함 <br>
 > 💡 Docker 빌드: `docker build . -t project-server:1.1`
 
 ## 개발 멤버[![](./docs/imgs/pin.svg)](#member)
